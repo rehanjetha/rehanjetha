@@ -42,7 +42,7 @@ Most of my projects start off as tiny inconveniences: reaching for a keyboard du
 
 <!-- Replace # with your resume link when ready. -->
 > [!IMPORTANT]
-> **Important - dear employers...**
+> **Dear employers...**
 >
 > [View my CV.](#)
 
