@@ -1,0 +1,7 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn">
+  <rect width="56" height="56" rx="14" fill="#0A66C2"/>
+  <rect x="1" y="1" width="54" height="54" rx="13" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="2"/>
+  <circle cx="19" cy="19" r="4" fill="#FFFFFF"/>
+  <rect x="15.5" y="25" width="7" height="18" rx="2" fill="#FFFFFF"/>
+  <path d="M28 25H35V28.2C36.1 26.2 38.1 24.6 41.1 24.6C45.8 24.6 48 27.7 48 33V43H41V34.4C41 31.9 40.2 30.4 38.1 30.4C35.8 30.4 35 32.1 35 34.4V43H28V25Z" fill="#FFFFFF"/>
+</svg>

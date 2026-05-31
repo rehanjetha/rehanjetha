@@ -1,0 +1,6 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Email">
+  <rect width="56" height="56" rx="14" fill="#111827"/>
+  <rect x="1" y="1" width="54" height="54" rx="13" stroke="#A3E635" stroke-opacity="0.4" stroke-width="2"/>
+  <rect x="13" y="18" width="30" height="22" rx="4" stroke="#F8FAFC" stroke-width="2.4"/>
+  <path d="M15 20L28 30L41 20" stroke="#A3E635" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
