@@ -18,7 +18,7 @@ Most of my projects start off as tiny inconveniences: reaching for a keyboard du
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,swift,js,cpp,html,css,mongodb,git,arduino,raspberrypi,linux,matlab,docker&theme=dark&perline=7" alt="Python, Java, Swift, JavaScript, C++, HTML, CSS, MongoDB, Git, Arduino, Raspberry Pi, Linux, MATLAB, and Docker" width="500"/>
+    <img src="https://skillicons.dev/icons?i=python,java,js,swift,cpp,git,docker&theme=dark&perline=7" alt="Python, Java, JavaScript, Swift, C++, Git, and Docker" width="420"/>
   </a>
 </div>
 
@@ -42,8 +42,8 @@ Most of my projects start off as tiny inconveniences: reaching for a keyboard du
 
 <!-- Replace # with your resume link when ready. -->
 > [!IMPORTANT]
-> **Dear employers...**
+> **Important - dear employers...**
 >
-> [View my CV.](#)
+> [View my CV.](https://rehanjetha.com/resume.pdf)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,55:0E7490,100:A3E635&height=95&section=footer" alt="footer"/>

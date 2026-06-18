@@ -8,22 +8,22 @@
     </pattern>
     <clipPath id="line1Clip">
       <rect x="106" y="124" width="0" height="30">
-        <animate attributeName="width" from="0" to="330" dur="2.8s" begin="0.5s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="330" dur="2.4s" begin="0.4s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="line2Clip">
       <rect x="106" y="166" width="0" height="30">
-        <animate attributeName="width" from="0" to="470" dur="4s" begin="3.6s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="470" dur="3.4s" begin="3s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="line3Clip">
       <rect x="106" y="208" width="0" height="30">
-        <animate attributeName="width" from="0" to="650" dur="5.3s" begin="8s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="650" dur="4.5s" begin="6.8s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="line4Clip">
       <rect x="106" y="250" width="0" height="30">
-        <animate attributeName="width" from="0" to="660" dur="5.2s" begin="13.8s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="660" dur="4.4s" begin="11.7s" fill="freeze"/>
       </rect>
     </clipPath>
   </defs>
