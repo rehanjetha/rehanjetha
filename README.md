@@ -8,7 +8,7 @@
 
 ### About
 
-I'm an Electrical Engineering student at the Lassonde School of Engineering, with my first year complete, and the Schulich Leader Scholarship supporting the ride!
+I'm a second-year Electrical Engineering student at the Lassonde School of Engineering, with the Schulich Leader Scholarship supporting the ride!
 
 Most of my projects start off as tiny inconveniences: reaching for a keyboard during a presentation, having to lock the house (such a drag!), or beating my family at checkers. I like turning these little frustrations into projects that come to life. Come follow along with my journey!
 
@@ -32,18 +32,15 @@ Most of my projects start off as tiny inconveniences: reaching for a keyboard du
   <a href="https://github.com/rehanjetha"><img src="./assets/icons/github.svg" alt="GitHub" width="44" height="44"/></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rehan-jetha/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="44" height="44"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:contact@rehanjetha.com"><img src="./assets/icons/email.svg" alt="Email" width="44" height="44"/></a>
 </div>
 
 <br/>
 
 ### Résumé
 
-<!-- Replace # with your resume link when ready. -->
 > [!IMPORTANT]
 > **Important - dear employers...**
 >
-> [View my CV.]([https://rehanjetha.com/resume.pdf](https://github.com/rehanjetha/rehanjetha/blob/main/Jetha_Rehan_Resume_Website.pdf))
+> [View my résumé.](./Jetha_Rehan_Resume_Website.pdf)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,55:0E7490,100:A3E635&height=95&section=footer" alt="footer"/>
