@@ -44,6 +44,6 @@ Most of my projects start off as tiny inconveniences: reaching for a keyboard du
 > [!IMPORTANT]
 > **Important - dear employers...**
 >
-> [View my CV.](https://rehanjetha.com/resume.pdf)
+> [View my CV.]([https://rehanjetha.com/resume.pdf](https://github.com/rehanjetha/rehanjetha/blob/main/Jetha_Rehan_Resume_Website.pdf))
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,55:0E7490,100:A3E635&height=95&section=footer" alt="footer"/>
