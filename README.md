@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/about_rehan.svg" alt="About Rehan terminal" width="620"/>
+<p><img src="./assets/about_rehan.svg" alt="About Rehan terminal" width="620"/></p>
 
 <br/>
 
