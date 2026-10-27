@@ -4,6 +4,8 @@
 
 <img src="./assets/about_rehan.svg" alt="About Rehan terminal" width="620"/>
 
+<br/>
+
 My projects start with something that bugs me.<br/>
 So I build my way out of it.
 
