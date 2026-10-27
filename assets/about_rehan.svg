@@ -1,6 +1,6 @@
 <svg width="900" height="380" viewBox="0 0 900 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Rehan Jetha profile terminal</title>
-  <desc id="desc">A static terminal-style profile snapshot for Rehan Jetha.</desc>
+  <desc id="desc">A terminal-style profile snapshot for Rehan Jetha.</desc>
 
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
@@ -8,22 +8,22 @@
     </pattern>
     <clipPath id="line1Clip">
       <rect x="106" y="124" width="0" height="30">
-        <animate attributeName="width" from="0" to="330" dur="1.05s" begin="0.18s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="330" dur="0.45s" begin="0.1s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="line2Clip">
       <rect x="106" y="166" width="0" height="30">
-        <animate attributeName="width" from="0" to="470" dur="1.5s" begin="1.3s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="470" dur="0.55s" begin="0.6s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="line3Clip">
       <rect x="106" y="208" width="0" height="30">
-        <animate attributeName="width" from="0" to="650" dur="1.95s" begin="2.95s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="650" dur="0.7s" begin="1.2s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="line4Clip">
       <rect x="106" y="250" width="0" height="30">
-        <animate attributeName="width" from="0" to="660" dur="1.9s" begin="5.1s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="660" dur="0.7s" begin="1.95s" fill="freeze"/>
       </rect>
     </clipPath>
   </defs>
@@ -52,7 +52,7 @@
 
   <g clip-path="url(#line3Clip)">
     <text x="106" y="229" font-family="SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="20">
-      <tspan fill="#5EEAD4">#</tspan><tspan dx="20" fill="#E5E7EB">building QoL projects from tiny inconveniences</tspan>
+      <tspan fill="#5EEAD4">#</tspan><tspan dx="20" fill="#E5E7EB">ESP32s, Swift apps, and a checkers AI</tspan>
     </text>
   </g>
 
