@@ -52,7 +52,7 @@
 
   <g clip-path="url(#line3Clip)">
     <text x="106" y="229" font-family="SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="20">
-      <tspan fill="#5EEAD4">#</tspan><tspan dx="20" fill="#E5E7EB">ESP32s, Swift apps, and a checkers AI</tspan>
+      <tspan fill="#5EEAD4">#</tspan><tspan dx="20" fill="#E5E7EB">currently teaching an ESP32 to spot ice</tspan>
     </text>
   </g>
 
