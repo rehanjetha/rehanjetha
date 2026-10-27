@@ -1,11 +1,8 @@
-<svg width="900" height="380" viewBox="0 0 900 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="764" height="268" viewBox="68 42 764 268" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Rehan Jetha profile terminal</title>
   <desc id="desc">A terminal-style profile snapshot for Rehan Jetha.</desc>
 
   <defs>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" stroke="#0B1626"/>
-    </pattern>
     <clipPath id="line1Clip">
       <rect x="106" y="124" width="0" height="30">
         <animate attributeName="width" from="0" to="330" dur="0.45s" begin="0.1s" fill="freeze"/>
@@ -28,10 +25,7 @@
     </clipPath>
   </defs>
 
-  <rect width="900" height="380" fill="#050B14"/>
-  <rect width="900" height="380" fill="url(#grid)"/>
-
-  <rect x="70" y="44" width="760" height="288" rx="18" fill="#020617" stroke="#243247" stroke-width="2"/>
+  <rect x="70" y="44" width="760" height="264" rx="18" fill="#020617" stroke="#243247" stroke-width="2"/>
   <path d="M70 62C70 52.059 78.059 44 88 44H812C821.941 44 830 52.059 830 62V88H70V62Z" fill="#243447"/>
   <circle cx="98" cy="66" r="6" fill="#FF5F57"/>
   <circle cx="122" cy="66" r="6" fill="#FFBD2E"/>
