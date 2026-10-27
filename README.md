@@ -6,41 +6,14 @@
 
 <br/>
 
-### About
+Most of my projects start with something that bugs me: reaching for a keyboard mid-presentation, locking the house (such a drag!), or wanting to finally beat my family at checkers. So I build my way out of it. Come follow along!
 
-I'm a second-year Electrical Engineering student at the Lassonde School of Engineering, with the Schulich Leader Scholarship supporting the ride!
-
-Most of my projects start off as tiny inconveniences: reaching for a keyboard during a presentation, having to lock the house (such a drag!), or beating my family at checkers. I like turning these little frustrations into projects that come to life. Come follow along with my journey!
-
-<br/>
-
-### My Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,swift,cpp,git,docker&theme=dark&perline=7" alt="Python, Java, JavaScript, Swift, C++, Git, and Docker" width="420"/>
-  </a>
-</div>
-
-<br/>
-
-### My Socials
+**Usually in:** Python, C++, Swift, JavaScript, Java · ESP32 and Arduino on the hardware side
 
 <div align="center">
   <a href="https://rehanjetha.com"><img src="./assets/icons/website.svg" alt="Website" width="44" height="44"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rehanjetha"><img src="./assets/icons/github.svg" alt="GitHub" width="44" height="44"/></a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rehan-jetha/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="44" height="44"/></a>
+  <br/><br/>
+  <a href="./Jetha_Rehan_Resume_Website.pdf">View my résumé</a>
 </div>
-
-<br/>
-
-### Résumé
-
-> [!IMPORTANT]
-> **Important - dear employers...**
->
-> [View my résumé.](./Jetha_Rehan_Resume_Website.pdf)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,55:0E7490,100:A3E635&height=95&section=footer" alt="footer"/>
